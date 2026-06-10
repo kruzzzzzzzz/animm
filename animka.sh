@@ -23,6 +23,7 @@ NODES=(
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/jnxmx/ComfyUI_HuggingFace_Downloader"
     "https://github.com/teskor-hub/comfyui-teskors-utils.git"
+    "https://github.com/PozzettiAndrea/ComfyUI-SAM3.git"
 )
 
 # ЗАГРУЗКА ФАЙЛОВ НУЖНЫХ

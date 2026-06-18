@@ -22,7 +22,7 @@ NODES=(
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/jnxmx/ComfyUI_HuggingFace_Downloader"
-    "https://github.com/kruzzzzzzzz/utills.git"
+    "https://github.com/kruzzzzzzzz/nnodee.git"
     "https://github.com/PozzettiAndrea/ComfyUI-SAM3.git"
 )
 
